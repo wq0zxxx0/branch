@@ -1,0 +1,29 @@
+body{
+	background-image: url('https://th.bing.com/th/id/OIP.BUnucsUVT8lCOwDBOFWMIgHaEo?rs=1&pid=ImgDetMain')
+}
+.gg{
+	display: flex;
+	margin: 70px;
+	color: green;
+	border: 1px solid black;
+	background-image: url('https://th.bing.com/th/id/OIP.WeHEMhqahOct3CpsoVSJ3QHaEK?rs=1&pid=ImgDetMain');	
+}
+
+.pon{
+	display: flex;
+	margin: 70px;
+	color: pink;
+	border: 1px solid black;
+	background-image: url('https://th.bing.com/th/id/OIP.WeHEMhqahOct3CpsoVSJ3QHaEK?rs=1&pid=ImgDetMain');	
+}
+
+.kk{
+	width: 60px;
+	display: flex;
+	margin: 70px;
+	color: pink;
+	border: 1px solid black;
+	background-image: url('https://th.bing.com/th/id/OIP.WeHEMhqahOct3CpsoVSJ3QHaEK?rs=1&pid=ImgDetMain');	
+}
+
+
